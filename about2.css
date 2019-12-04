@@ -3,6 +3,11 @@ body {
     color: white;
 }
 
+.navbar-dark {
+    background-color: darkslategray;
+    font: italic;
+}
+
 h1 {
     padding: 60px;
     text-align: center;

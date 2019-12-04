@@ -1,0 +1,49 @@
+.navbar-dark {
+    background-color: darkslategray;
+    font: italic;
+}
+
+.navbar{
+    text-align: center;
+}
+
+.tree_pic{
+    overflow: hidden;
+    opacity: 0.8;
+    width: 100%;
+}
+
+
+h1 {
+    padding: 60px;
+    text-align: center;
+    font-size: 600%;
+    color: white;
+    font-weight: italic;
+    font-family: 'Abril Fatface', cursive;
+    background-image: url("https://wallpapermemory.com/uploads/718/forest-background-hd-1920x1200-348250.jpg");
+    background-size: cover;  
+}
+
+p{
+    font-size: large;
+    color: darkslategray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    position: relative;
+    width: 100%;
+}
+
+.text-block{
+  width: 20%;
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
