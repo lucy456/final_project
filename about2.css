@@ -1,13 +1,56 @@
 body {
-    background-color: green;
+    background-color: rgb(33, 109, 71);
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
+    padding: 60px;
     text-align: center;
-    font-size: 500%;
+    font-size: 600%;
     color: white;
-    font-weight: bold;
+    font-weight: italic;
+    font-family: 'Abril Fatface', cursive;
+    background-image: url("https://wallpapermemory.com/uploads/718/forest-background-hd-1920x1200-348250.jpg");
+    background-size: cover;  
+}
+
+h2 {
+    font-family: 'Heebo', sans-serif;
+    font-size: 180%;
+}
+
+h3 {
+    font-size: 80%;
+    margin-bottom: 10px;
+}
+
+img {
+    margin: auto;
+    margin-top: 30px;
+    margin-left: 10px;
+    height: 250px;
+    width: 450px;
+    text-align: justify;
+}
+
+.first {
+    height: 200px;
+    background-color: rgba(0,0,0,0.15);
+    max-width: 900px;
+    text-align: justify;
+    padding: 2%;
+    margin: auto;
+    margin-top: 20px;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+.second {
+    position: relative;
+    text-align: center;
+    padding: 2%;
+    margin-top: 10px;
+    font-family: 'Open Sans', sans-serif;
+
 }
 
