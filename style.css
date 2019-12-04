@@ -1,9 +1,18 @@
 .navbar-dark {
     background-color: darkslategray;
     font: italic;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(33, 109, 71);
 }
 
 .navbar{
+    text-align: center;
+}
+
+.navbar-expand-lg{
     text-align: center;
 }
 
